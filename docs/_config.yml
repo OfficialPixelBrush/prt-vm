@@ -1,0 +1,10 @@
+title: PixRuntime Spec
+description: Specification for the Pix Runtime
+theme: just-the-docs
+
+url: https://OfficialPixelBrush.github.io
+baseurl: /PixRuntime
+
+color_scheme: dark
+
+search_enabled: true
