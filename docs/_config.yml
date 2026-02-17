@@ -2,7 +2,7 @@ title: prtvm Spec
 tagline: "Specification for the PRTVM"
 description: Specification for the PRTVM
 theme: just-the-docs
-baseurl: ""
+baseurl: "/prtvm"
 
 url: https://OfficialPixelBrush.github.io/prtvm
 
