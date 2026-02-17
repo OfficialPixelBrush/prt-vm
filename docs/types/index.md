@@ -6,7 +6,7 @@ nav_order: 2
 
 # Types
 
-The following is a list of how all types that exist in the prtvm.
+The following is a list of how all types that exist in the PRTVM.
 
 | Label | Full name | Function |
 | --- | --- | --- |

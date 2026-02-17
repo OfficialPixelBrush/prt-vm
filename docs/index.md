@@ -4,6 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# prtvm Spec
+# PRTVM Spec
 
-Specification for the prtvm
+Specification for the PRTVM (**P**ixel **R**un**t**ime **V**irtual **M**achine)

@@ -31,3 +31,7 @@
 *.out
 *.app
 /build
+/_site
+/docs/_site
+/docs/_site
+docs/_site/assets/js/search-data.json

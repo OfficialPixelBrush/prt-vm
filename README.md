@@ -1,4 +1,4 @@
-# prtvm
+# PRTVM
 JVM/C# Runtime-like environment
 
-prtvm stands for **P**ixel **R**un**t**ime **V**irtual **M**achine
+PRTVM stands for **P**ixel **R**un**t**ime **V**irtual **M**achine
